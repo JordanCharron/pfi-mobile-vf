@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nom": "Montréal",     "adresse": "1234 Rue Sainte-Catherine, Montréal", "latitude": 45.5017, "longitude": -73.5673 },
+  { "id": 2, "nom": "Laval",        "adresse": "3030 Boul. Le Carrefour, Laval",       "latitude": 45.6066, "longitude": -73.7124 },
+  { "id": 3, "nom": "Longueuil",    "adresse": "825 Boul. Curé-Poirier O, Longueuil", "latitude": 45.5315, "longitude": -73.5183 },
+  { "id": 4, "nom": "Brossard",     "adresse": "9191 Boul. Leduc, Brossard",           "latitude": 45.4506, "longitude": -73.4677 },
+  { "id": 5, "nom": "St-Jérôme", "adresse": "700 Rue Labelle, Saint-Jérôme",        "latitude": 45.7790, "longitude": -74.0020 }
+]
